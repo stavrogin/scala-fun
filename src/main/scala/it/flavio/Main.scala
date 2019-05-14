@@ -19,6 +19,7 @@ object Main {
     println(track.title)
     println(track.rank)
 
+
   }
 
   def getTrackDetails(trackId: String): Track = {
